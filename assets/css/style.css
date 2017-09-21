@@ -1,0 +1,8 @@
+body {
+    background-image: url("soccer.jpg");
+}
+
+#gifs {
+    font-size: 30px;
+    color: red;
+}
